@@ -18,3 +18,5 @@ while True:
         break
 
 window.close()
+
+#last line of code of the day amigo
